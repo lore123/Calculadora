@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author Cain Casas
  */
-public class Divicion_Entera {
+public class Division_Entera {
 
     /**
      * @param args the command line arguments
